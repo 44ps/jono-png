@@ -1,2 +1,2 @@
 ![Profile Banner](banner.png)
-[![Discord Presence](https://lanyard.cnrad.dev/api/696774823661011014?bg=0e0d0f&idleMessage=fuck%20off,%20I%20ain%27t%20doing%20anything)](https://discord.com/users/696774823661011014)
+[![web-visual-bookmark@2x](https://github.com/jono-png/jono-png/assets/159429141/3dbb0b31-6173-4029-a765-230f04aeaf0f)](https://github.com/jono-png/endpoints)
